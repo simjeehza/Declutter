@@ -1,0 +1,3 @@
+# Ignore pyenv virtual environments
+pyenv/
+.gitignore

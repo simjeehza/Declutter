@@ -1,2 +1,2 @@
 # Declutter
-A simple media storage cleanup tool
+A simple tool for freeing up space byb helping you clean up old media
