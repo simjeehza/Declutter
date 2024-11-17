@@ -1,3 +1,4 @@
 # Ignore pyenv virtual environments
 pyenv/
 __pycache__/
+files.db
